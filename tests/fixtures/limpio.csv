@@ -1,0 +1,7 @@
+Date (UTC),Username,IP address,Country,Client app,Sign-in error code
+2026-10-01T08:00:00Z,sofia@empresa.com.pa,200.46.1.10,PA,Browser,0
+2026-10-01T09:00:00Z,sofia@empresa.com.pa,200.46.1.10,PA,Browser,0
+2026-10-01T10:00:00Z,sofia@empresa.com.pa,200.46.1.10,PA,Browser,0
+2026-10-01T11:00:00Z,sofia@empresa.com.pa,200.46.1.10,PA,Browser,0
+2026-10-01T12:00:00Z,sofia@empresa.com.pa,200.46.1.10,PA,Browser,0
+2026-10-01T09:00:05Z,sofia@empresa.com.pa,200.46.1.10,PA,Mobile Apps and Desktop clients,50126

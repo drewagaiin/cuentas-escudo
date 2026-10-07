@@ -1,0 +1,15 @@
+# Nunca subir datos reales de clientes (Ley 81)
+logs-reales/
+registros-reales/
+*.real.csv
+*.real.json
+informe*.txt
+informe*.json
+
+# Apuntes personales de estudio
+ESTUDIO.md
+
+# Python
+__pycache__/
+*.pyc
+.ruff_cache/

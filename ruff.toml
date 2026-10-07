@@ -1,0 +1,20 @@
+# Reglas de estilo y seguridad para cuentas-escudo.
+# Se corre en CI con: ruff check .
+target-version = "py39"
+line-length = 110
+
+[lint]
+select = ["E", "F", "W", "B", "S", "UP", "C4", "RUF"]
+ignore = [
+    "UP009",   # la cabecera UTF-8 es inofensiva y ayuda a editores viejos
+    "DTZ007",  # las fechas sin zona se normalizan a UTC justo después
+    "RUF007",  # zip(a, a[1:]) es claro y no requiere importar itertools
+    "S110",    # el try/except/pass en BrokenPipe es intencional
+    "BLE001",  # idem: al cerrar stdout tras un pipe roto no hay nada que registrar
+    "RUF059",  # variables sin usar al desempacar en las pruebas
+    "RUF001",  # caracteres unicode "ambiguos" que son español normal (·, tildes)
+    "RUF005",  # concatenar listas es claro aquí
+]
+
+[lint.per-file-ignores]
+"tests/*" = ["S"]   # en las pruebas usamos subprocess a propósito

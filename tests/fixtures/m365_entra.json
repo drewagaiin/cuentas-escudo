@@ -1,0 +1,28 @@
+{
+  "value": [
+    {
+      "createdDateTime": "2026-10-01T08:00:00Z",
+      "userPrincipalName": "root@empresa.com.pa",
+      "ipAddress": "200.46.2.2",
+      "clientAppUsed": "Browser",
+      "status": {
+        "errorCode": 0
+      },
+      "location": {
+        "countryOrRegion": "PA"
+      }
+    },
+    {
+      "createdDateTime": "2026-10-01T08:03:00Z",
+      "userPrincipalName": "root@empresa.com.pa",
+      "ipAddress": "200.46.2.2",
+      "clientAppUsed": "POP3",
+      "status": {
+        "errorCode": 0
+      },
+      "location": {
+        "countryOrRegion": "PA"
+      }
+    }
+  ]
+}

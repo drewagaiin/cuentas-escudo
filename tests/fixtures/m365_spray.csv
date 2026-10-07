@@ -1,0 +1,8 @@
+Date (UTC),Username,IP address,Country,Client app,Sign-in error code
+2026-10-01T08:00:00Z,user0@empresa.com.pa,192.0.2.55,RU,Browser,50126
+2026-10-01T08:01:00Z,user1@empresa.com.pa,192.0.2.55,RU,Browser,50126
+2026-10-01T08:02:00Z,user2@empresa.com.pa,192.0.2.55,RU,Browser,50126
+2026-10-01T08:03:00Z,user3@empresa.com.pa,192.0.2.55,RU,Browser,50126
+2026-10-01T08:04:00Z,user4@empresa.com.pa,192.0.2.55,RU,Browser,50126
+2026-10-01T08:05:00Z,user5@empresa.com.pa,192.0.2.55,RU,Browser,50126
+2026-10-01T08:07:00Z,user3@empresa.com.pa,192.0.2.55,RU,Browser,0

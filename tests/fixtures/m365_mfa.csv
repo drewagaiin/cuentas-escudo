@@ -1,0 +1,7 @@
+Date (UTC),Username,IP address,Country,Client app,Sign-in error code
+2026-10-01T08:00:00Z,marta@empresa.com.pa,203.0.113.80,US,Browser,500121
+2026-10-01T08:00:15Z,marta@empresa.com.pa,203.0.113.80,US,Browser,500121
+2026-10-01T08:00:30Z,marta@empresa.com.pa,203.0.113.80,US,Browser,500121
+2026-10-01T08:00:45Z,marta@empresa.com.pa,203.0.113.80,US,Browser,500121
+2026-10-01T08:01:00Z,marta@empresa.com.pa,203.0.113.80,US,Browser,500121
+2026-10-01T08:01:30Z,marta@empresa.com.pa,203.0.113.80,US,Browser,0

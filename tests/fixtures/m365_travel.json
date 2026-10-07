@@ -1,0 +1,38 @@
+[
+  {
+    "createdDateTime": "2026-10-01T08:00:00Z",
+    "userPrincipalName": "carlos@empresa.com.pa",
+    "ipAddress": "203.0.113.1",
+    "clientAppUsed": "Browser",
+    "appDisplayName": "Office 365",
+    "status": {
+      "errorCode": 0
+    },
+    "location": {
+      "city": "Panama City",
+      "countryOrRegion": "PA",
+      "geoCoordinates": {
+        "latitude": 8.98,
+        "longitude": -79.52
+      }
+    }
+  },
+  {
+    "createdDateTime": "2026-10-01T08:30:00Z",
+    "userPrincipalName": "carlos@empresa.com.pa",
+    "ipAddress": "185.60.1.2",
+    "clientAppUsed": "Browser",
+    "appDisplayName": "Office 365",
+    "status": {
+      "errorCode": 0
+    },
+    "location": {
+      "city": "Moscow",
+      "countryOrRegion": "RU",
+      "geoCoordinates": {
+        "latitude": 55.75,
+        "longitude": 37.61
+      }
+    }
+  }
+]

@@ -1,0 +1,14 @@
+Date (UTC),User,Username,IP address,Country,Client app,Application,Sign-in error code,Failure reason
+2026-10-01T08:00:00Z,Ana Pérez,ana.perez@empresa.com.pa,203.0.113.9,US,Browser,Office 365,50126,Invalid username or password
+2026-10-01T08:00:20Z,Ana Pérez,ana.perez@empresa.com.pa,203.0.113.9,US,Browser,Office 365,50126,Invalid username or password
+2026-10-01T08:00:40Z,Ana Pérez,ana.perez@empresa.com.pa,203.0.113.9,US,Browser,Office 365,50126,Invalid username or password
+2026-10-01T08:01:00Z,Ana Pérez,ana.perez@empresa.com.pa,203.0.113.9,US,Browser,Office 365,50126,Invalid username or password
+2026-10-01T08:01:20Z,Ana Pérez,ana.perez@empresa.com.pa,203.0.113.9,US,Browser,Office 365,50126,Invalid username or password
+2026-10-01T08:01:40Z,Ana Pérez,ana.perez@empresa.com.pa,203.0.113.9,US,Browser,Office 365,50126,Invalid username or password
+2026-10-01T08:02:00Z,Ana Pérez,ana.perez@empresa.com.pa,203.0.113.9,US,Browser,Office 365,50126,Invalid username or password
+2026-10-01T08:02:20Z,Ana Pérez,ana.perez@empresa.com.pa,203.0.113.9,US,Browser,Office 365,50126,Invalid username or password
+2026-10-01T08:02:40Z,Ana Pérez,ana.perez@empresa.com.pa,203.0.113.9,US,Browser,Office 365,50126,Invalid username or password
+2026-10-01T08:03:00Z,Ana Pérez,ana.perez@empresa.com.pa,203.0.113.9,US,Browser,Office 365,50126,Invalid username or password
+2026-10-01T08:03:20Z,Ana Pérez,ana.perez@empresa.com.pa,203.0.113.9,US,Browser,Office 365,50126,Invalid username or password
+2026-10-01T08:03:40Z,Ana Pérez,ana.perez@empresa.com.pa,203.0.113.9,US,Browser,Office 365,50126,Invalid username or password
+2026-10-01T08:04:30Z,Ana Pérez,ana.perez@empresa.com.pa,203.0.113.9,US,Browser,Office 365,0,
